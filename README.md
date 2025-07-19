@@ -127,7 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@iamziqian](https://github.com/iamziqian)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/violet-fu-ziqian)
+- LinkedIn: [Violet's LinkedIn Profile](https://linkedin.com/in/violet-fu-ziqian)
 
 ---
 
